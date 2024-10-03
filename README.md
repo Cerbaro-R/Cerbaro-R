@@ -14,4 +14,4 @@ JavaScript,  Typescript,  HTML,  CSS,  PHP, Git,  GitHub
 Contribuitions
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerbaro-r&theme=onedark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerbaro-r&show_icons=true&theme=onedark&layout=donut)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerbaro-r&show_icons=true&theme=onedark)
