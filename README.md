@@ -6,4 +6,11 @@ My main areas of interest include:
 - Backend with PHP 🐘  
 - MySQL database 💾  
 - MVC architecture 🎯  
-- Creating functional and elegant solutions for complex problems 💡 
+
+I have worked, know or use
+
+JavaScript,  Typescript,  HTML,  CSS,  PHP, Git,  GitHub
+
+Contribuitions
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
