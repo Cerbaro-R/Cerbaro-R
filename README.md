@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Rafael Cerbaro  
+Hello, world! 👋  
+I am a young technology enthusiast, passionate about web development and currently focused on learning PHP. 🚀
 
-<!---
-Cerbaro-R/Cerbaro-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My main areas of interest include:
+
+- Backend with PHP 🐘  
+- MySQL database 💾  
+- MVC architecture 🎯  
+- Creating functional and elegant solutions for complex problems 💡 
